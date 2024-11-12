@@ -25,3 +25,47 @@ A full-stack To-Do application built with **React, TypeScript, Tailwind CSS, Red
 - Dotenv
 - CORS
 
+## Setup and Installation
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/en/download/) (v14 or higher recommended)
+- [npm](https://www.npmjs.com/get-npm) or [yarn](https://yarnpkg.com/getting-started/install)
+
+### Installation Steps
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/srudhi6383/uprio-fe.git
+   ```
+   
+2. **Navigate to the Project Directory**:
+   ```bash
+      cd task-manager-app
+   ```
+   
+3. **Install Dependencies**:
+    Using npm:
+    ```bash
+       npm install
+    ```
+     Or using yarn:
+    ```bash
+       yarn install
+    ```
+    
+4. **Run the Application**:
+     Using npm:
+     ```bash
+      npm start
+     ```
+    Or using yarn:
+    ```bash
+      yarn start
+    ```
+    
+5. **Access the Application**:
+     Open your browser and go to ```http://localhost:3000``` to view the app.
